@@ -43,6 +43,7 @@ coalescing and LDS tiling, FP16/BF16 GEMM with FP32 accumulation.
   <a href="https://me.developers.google.com/u/113698327822147498392"><img src="https://www.gstatic.com/googledevelopers/profile/badges/playlists/ai-models-on-gpu-intro/badge.svg" height="76" alt="Intro to Inference: How to Run AI Models on a GPU"></a>
   <a href="https://me.developers.google.com/u/113698327822147498392"><img src="https://www.gstatic.com/googledevelopers/profile/badges/playlists/scale-and-serve-jax-models-on-nvidia-gpus/badge.svg" height="76" alt="Scale and Serve JAX Models on NVIDIA GPUs"></a>
   <a href="https://me.developers.google.com/u/113698327822147498392"><img src="https://www.gstatic.com/googledevelopers/profile/badges/playlists/speed-up-data-analytics-GPUs/badge.svg" height="76" alt="Speed Up Data Analytics on GPUs"></a>
+  <a href="https://me.developers.google.com/u/113698327822147498392"><img src="https://www.gstatic.com/googledevelopers/profile/badges/playlists/nvidia-deploy-with-gen-ai/badge.svg" height="76" alt="Deploy Faster GenAI models with NVIDIA NIM on GKE"></a>
 </p>
 
 [Public developer profile →](https://me.developers.google.com/u/113698327822147498392)
