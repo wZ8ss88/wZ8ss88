@@ -34,6 +34,12 @@ coalescing and LDS tiling, FP16/BF16 GEMM with FP32 accumulation.
 
 ### Google Developer Program
 
+<p>
+  <a href="https://me.developers.google.com/u/113698327822147498392"><img src="https://www.gstatic.com/googledevelopers/profile/badges/nvidia-developer/badge.svg" height="76" alt="Google Cloud & NVIDIA community member"></a>
+  <a href="https://me.developers.google.com/u/113698327822147498392"><img src="https://www.gstatic.com/googledevelopers/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" height="76" alt="Google Developer Program premium tier"></a>
+  <a href="https://me.developers.google.com/u/113698327822147498392"><img src="https://www.gstatic.com/googledevelopers/profile/badges/recognitions/learnings/learnings.svg" height="76" alt="Learning badges, tier 6"></a>
+</p>
+
 [Public developer profile →](https://me.developers.google.com/u/113698327822147498392)
 
 Member of the Google Cloud & NVIDIA community. Passed the quiz of all five joint learning
