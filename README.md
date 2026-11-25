@@ -12,4 +12,4 @@ ROCm stack and HIP porting, CDNA/RDNA architecture, rocprofv3 / roctx profiling,
 
 ### Projects
 
-- [amd-llm-kit](https://github.com/wZ8ss88/amd-llm-kit) - ROCm host probe, gfx target table, KV-cache sizing, VRAM watcher (stdlib only)
+- [amd-llm-kit](https://github.com/wZ8ss88/amd-llm-kit) - ROCm host probe, gfx target table, KV-cache sizing, VRAM watcher, TTFT/ITL benchmark (stdlib only)
