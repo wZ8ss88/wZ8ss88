@@ -1,6 +1,27 @@
 # Nik Lowerson
 
-Solo developer. LLM inference benchmarking, GPU runtimes, vLLM.
+LLM inference on AMD GPUs — ROCm, HIP, vLLM. I care about measuring before claiming.
+
+### About
+
+I work close to the metal on inference: the runtime, the kernels, the memory layout, and
+the numbers that prove any of it. Most of what I build starts as a question I could not
+answer from a datasheet — "does this host even have a working ROCm stack", "how much VRAM
+will 32k of context actually eat" — and ends as a small read-only tool with tests.
+
+Certified by AMD on this stack in 2026. The certificate is below; the repository is the
+part that can be checked.
+
+### Focus
+
+- Single-node serving on CDNA hardware (MI300X, `gfx942`), fp8 KV budgets that fit before the model loads.
+- HIP porting from CUDA, and the gaps that porting exposes.
+- Latency work — TTFT, ITL, p99 — with the counting method stated next to every number.
+
+### Skills
+
+`ROCm` `HIP` `CDNA / RDNA architecture` `rocprofv3 / roctx` `memory coalescing` `LDS tiling`
+`FP16/BF16 GEMM with FP32 accumulation` `vLLM` `KV-cache budgeting` `Python, stdlib-first` `Linux`
 
 ### Certifications
 
@@ -8,8 +29,16 @@ Solo developer. LLM inference benchmarking, GPU runtimes, vLLM.
 
 **AMD ROCm Certified Associate** · AMD · issued Nov 2026, valid through Nov 2028
 
-ROCm stack and HIP porting, CDNA/RDNA architecture, rocprofv3 / roctx profiling, memory coalescing and LDS tiling, FP16/BF16 GEMM with FP32 accumulation.
+ROCm stack and HIP porting, CDNA/RDNA architecture, rocprofv3 / roctx profiling, memory
+coalescing and LDS tiling, FP16/BF16 GEMM with FP32 accumulation.
 
 ### Projects
 
-- [amd-llm-kit](https://github.com/wZ8ss88/amd-llm-kit) - ROCm host probe, gfx target table, KV-cache sizing, VRAM watcher, TTFT/ITL benchmark (stdlib only)
+- [amd-llm-kit](https://github.com/wZ8ss88/amd-llm-kit) — ROCm host probe, gfx target table, KV-cache sizing, VRAM watcher, TTFT/ITL benchmark. Standard library only, 22 tests.
+
+### How I work
+
+- Read-only by default. Probes report `MISSING` on the wrong host instead of guessing.
+- Numbers carry provenance — a token count derived from content deltas is tagged as an
+  approximation, never dressed up as exact.
+- If a claim cannot be tested here, the README says so rather than leaving it implied.
