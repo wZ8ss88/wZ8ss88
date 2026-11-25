@@ -37,7 +37,12 @@ coalescing and LDS tiling, FP16/BF16 GEMM with FP32 accumulation.
 <p>
   <a href="https://me.developers.google.com/u/113698327822147498392"><img src="https://www.gstatic.com/googledevelopers/profile/badges/nvidia-developer/badge.svg" height="76" alt="Google Cloud & NVIDIA community member"></a>
   <a href="https://me.developers.google.com/u/113698327822147498392"><img src="https://www.gstatic.com/googledevelopers/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" height="76" alt="Google Developer Program premium tier"></a>
-  <a href="https://me.developers.google.com/u/113698327822147498392"><img src="https://www.gstatic.com/googledevelopers/profile/badges/recognitions/learnings/learnings.svg" height="76" alt="Learning badges, tier 6"></a>
+  <a href="https://me.developers.google.com/u/113698327822147498392"><img src="https://www.gstatic.com/googledevelopers/profile/badges/recognitions/learnings/learnings.svg" height="76" alt="Learning badges, tier 8"></a>
+  <a href="https://me.developers.google.com/u/113698327822147498392"><img src="https://www.gstatic.com/googledevelopers/profile/badges/playlists/first-playlist/badge.svg" height="76" alt="First learning pathway and quiz"></a>
+  <a href="https://me.developers.google.com/u/113698327822147498392"><img src="https://www.gstatic.com/googledevelopers/profile/badges/playlists/accelerated-machine-learning-with-google-cloud-and-nvidia/badge.svg" height="76" alt="Accelerated Machine Learning with Google Cloud and NVIDIA"></a>
+  <a href="https://me.developers.google.com/u/113698327822147498392"><img src="https://www.gstatic.com/googledevelopers/profile/badges/playlists/ai-models-on-gpu-intro/badge.svg" height="76" alt="Intro to Inference: How to Run AI Models on a GPU"></a>
+  <a href="https://me.developers.google.com/u/113698327822147498392"><img src="https://www.gstatic.com/googledevelopers/profile/badges/playlists/scale-and-serve-jax-models-on-nvidia-gpus/badge.svg" height="76" alt="Scale and Serve JAX Models on NVIDIA GPUs"></a>
+  <a href="https://me.developers.google.com/u/113698327822147498392"><img src="https://www.gstatic.com/googledevelopers/profile/badges/playlists/speed-up-data-analytics-GPUs/badge.svg" height="76" alt="Speed Up Data Analytics on GPUs"></a>
 </p>
 
 [Public developer profile →](https://me.developers.google.com/u/113698327822147498392)
