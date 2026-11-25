@@ -32,6 +32,22 @@ part that can be checked.
 ROCm stack and HIP porting, CDNA/RDNA architecture, rocprofv3 / roctx profiling, memory
 coalescing and LDS tiling, FP16/BF16 GEMM with FP32 accumulation.
 
+### Google Developer Program
+
+[Public developer profile →](https://me.developers.google.com/u/113698327822147498392)
+
+Member of the Google Cloud & NVIDIA community. Passed the quiz of all five joint learning
+paths on the Google Cloud + NVIDIA stack — cuDF/cuML acceleration without code rewrites,
+GPU inference pipelines, NVIDIA NIM on GKE, JAX on GPU, GPU analytics:
+
+| Path | Score |
+|---|---|
+| Accelerated ML with Google Cloud and NVIDIA | 9/9 |
+| Intro to Inference: How to Run AI Models on a GPU | 5/5 |
+| Deploy Faster GenAI models with NVIDIA NIM on GKE | 7/8 |
+| Scale and Serve JAX Models on NVIDIA GPUs | 16/17 |
+| Speed Up Data Analytics on GPUs | 7/7 |
+
 ### Projects
 
 - [amd-llm-kit](https://github.com/wZ8ss88/amd-llm-kit) — ROCm host probe, gfx target table, KV-cache sizing, VRAM watcher, TTFT/ITL benchmark. Standard library only, 22 tests.
